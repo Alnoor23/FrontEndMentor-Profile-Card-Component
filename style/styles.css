@@ -30,7 +30,7 @@ body {
   font-family: 'Kumbh Sans', sans-serif;
   background-color: #19a2ae;
   overflow: hidden;
-  background-image: url("https://github.com/Alnoor23/FrontEndMentor-Profile-Card-Component/images/bg-pattern-bottom.svg"), url("https://github.com/Alnoor23/FrontEndMentor-Profile-Card-Component/images/bg-pattern-top.svg");
+  background-image: url("https://alnoor23.github.io/FrontEndMentor-Profile-Card-Component/images/bg-pattern-bottom.svg"), url("https://alnoor23.github.io/FrontEndMentor-Profile-Card-Component/images/bg-pattern-top.svg");
   background-position: bottom -550px right -60px, top -480px left -60px;
   background-repeat: no-repeat, no-repeat;
 }
@@ -69,7 +69,7 @@ body {
 .card .header {
   height: 160px;
   width: inherit;
-  background-image: url("https://github.com/Alnoor23/FrontEndMentor-Profile-Card-Component/images/bg-pattern-card.svg");
+  background-image: url("https://alnoor23.github.io/FrontEndMentor-Profile-Card-Component/images/bg-pattern-card.svg");
   border-radius: 20px 15px 0 0;
 }
 
@@ -81,7 +81,7 @@ body {
   height: 120px;
   width: 120px;
   top: -55px;
-  background-image: url("https://github.com/Alnoor23/FrontEndMentor-Profile-Card-Component/images/image-victor.jpg");
+  background-image: url("https://alnoor23.github.io/FrontEndMentor-Profile-Card-Component/images/image-victor.jpg");
   background-size: 100%;
   background-repeat: no-repeat;
   border-radius: 50%;
